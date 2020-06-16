@@ -34,3 +34,7 @@ $social-icons-background-color: {{ site.social_icons_background_color }};
     "base",
     "layout",
     "github-markdown"
+
+.imageWrapper {
+    border-radius: 0px !important;
+}
