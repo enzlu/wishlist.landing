@@ -42,5 +42,5 @@ $social-icons-background-color: {{ site.social_icons_background_color }};
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
 
 :root {
-    --ion-font-family: 'Roboto Mono', monospace;
+    font-family: 'Roboto Mono', monospace;
 }
