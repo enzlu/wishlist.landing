@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Changelog
-We'll summary our changes in the future here.
+We'll summarize our changes in the future here.
 
 <br>
 
